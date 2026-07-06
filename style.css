@@ -1,0 +1,12 @@
+h1{
+    color: aqua;
+    text-align: center;
+    font-size: 4rem;
+}
+p{
+    color: blueviolet;
+    font-size: 2rem;
+    font-family: sans-serif;
+    padding-top: 2rem;
+    text-align: center;
+}
